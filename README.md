@@ -5,3 +5,5 @@ Analysis on the database and help on answering simple questions for business gro
 
 Database & Tools:
 MySQL
+
+![image](https://github.com/user-attachments/assets/87a00baa-e5b3-45b9-9326-3c8ce17cfded)
